@@ -23,6 +23,13 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h2> TryHackMe Security+ completed labs</h2>
+-Password cracking
+-Splunk
+-Web Hacking
+-Wazuh
+>>>>>https://tryhackme.com/paths
+
 <h2>📄 Certifications(Coming soon...)</h2>
 
 <h2> 🤳 Connect with me:</h2>
