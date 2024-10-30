@@ -16,6 +16,7 @@
 -Splunk
 -Web Hacking
 -Wazuh
+-Authentication Bypass (Cyberheroes site)
 >>>>>https://tryhackme.com/paths
 
 <h2>📄 Certifications(Coming soon...)</h2>
