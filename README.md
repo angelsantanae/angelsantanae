@@ -10,7 +10,7 @@
 - <b>John the Ripper Lab - Password Cracking
   - [Praciting with John the Ripper password cracking tool on Kali Linux VM] (https://github.com/angelsantanae/JohnTheRipper-Lab/tree/main)
 - SSH with Public and Private keys Lab - Log in Kali with keys
-  - [Praciting SSH by creating and configuring public and private keys to log in on Kali Linux VM] (
+  - [Praciting SSH by creating and configuring public and private keys to log in on Kali Linux VM] (https://github.com/angelsantanae/SSHwithPublic-Privatekeys-Lab)</b>
 
 
 <h2> TryHackMe Security+ completed labs</h2>
