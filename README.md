@@ -7,8 +7,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>John the Ripper Lab - Password Cracking</b>
+  - [Praciting with John the Ripper password cracking tool on Kali Linux VM] (https://github.com/angelsantanae/JohnTheRipper-Lab/tree/main)
 
 
 <h2> TryHackMe Security+ completed labs</h2>
