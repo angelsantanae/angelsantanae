@@ -10,9 +10,9 @@
 - <b>John the Ripper Lab - Password Cracking
   - [Praciting with John the Ripper password cracking tool on Kali Linux VM] (https://github.com/angelsantanae/JohnTheRipper-Lab)
 - SSH with Public and Private keys Lab - Log in Kali with keys
-  - [Praciting SSH by creating and configuring public and private keys to log in on Kali Linux VM] (https://github.com/angelsantanae/SSHwithPublic-Privatekeys-Lab)</b>
-- Mouse and Keylogger project
-  -[Using Python to create a listener on the device in order to do a mouse and keylogger to record mouse positioning as well as what is written on your computer]
+  - [Praciting SSH by creating and configuring public and private keys to log in on Kali Linux VM] (https://github.com/angelsantanae/SSHwithPublic-Privatekeys-Lab)
+- Mouse positioning and Keylogger project
+  -[Using Python to create a listener on the device in order to record mouse positioning and keylogger and track keylog and mouse moves on the computer] (https://github.com/angelsantanae/MouseandKeylogger-project) </b>
 
 <h2> TryHackMe Security+ completed labs</h2>
 -Password cracking
