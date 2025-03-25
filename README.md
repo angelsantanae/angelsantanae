@@ -22,8 +22,8 @@
 -Authentication Bypass (Cyberheroes site)
 >>>>>https://tryhackme.com/paths
 
-<h2>📄 Certifications(Coming soon...)</h2>
-
+<h2>📄 Certifications</h2>
+![Google Cybersecurity and CompTIA Security+](https://github.com/angelsantanae/angelsantanae/blob/main/google-cybersecurity-certificate-comptia-security-d.png)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
