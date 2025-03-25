@@ -23,7 +23,7 @@
 >>>>>https://tryhackme.com/paths
 
 <h2>📄 Certifications</h2>
-
+![Image](https://github.com/user-attachments/assets/ef7fb351-d019-444b-b4d2-84c877a923b7)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
