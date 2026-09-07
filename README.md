@@ -1,4 +1,4 @@
-<h1>Hi, I'm Angel! <br/> <a href="https://www.linkedin.com/in/angel-santana-03869122b/">IT/Cybersecurity Student</a>
+<h1>Hi, I'm Angel! <br/> <a href="https://www.linkedin.com/in/angel-santana-03869122b/">Cybersecurity Professional</a>
 
 <h2>I'm looking forward to develop and improve myself in the security area with the goal of gaining hands on experience towards cybersecurity</h2>
 
